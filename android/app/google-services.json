@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "789218293144",
+    "project_id": "dabasecrud",
+    "storage_bucket": "dabasecrud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789218293144:android:2566a018407338da06e7ed",
+        "android_client_info": {
+          "package_name": "com.example.online_database_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeQJOPAUujLkRLvxo1n9zHvYoq7YbJsKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
